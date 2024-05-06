@@ -69,8 +69,7 @@ import com.mongodb.client.model.Field;
 import com.mongodb.operation.GroupOperation;
 
 // Annotation
-@RestController pradeep
-
+@RestController
 // Class
 public class BookController {
 
